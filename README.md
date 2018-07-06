@@ -1,4 +1,4 @@
-# vue-element-template
+# app
 
 > A Vue.js project
 
